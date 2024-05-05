@@ -39,7 +39,7 @@ Start by cloning the repository to your local machine:
 
 ```bash
 git clone https://github.com/theahmetgg/mern-hotel-booking.git
-cd cd mern-hotel-booking
+cd mern-hotel-booking
 ```
 
 ## Backend Configuration
