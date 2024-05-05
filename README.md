@@ -2,7 +2,7 @@
 
 This application is a powerful, reliable, and user-friendly platform for users to easily make hotel reservations.
 
-##Usage
+## Usage
 Clone the project: git clone https://github.com/theahmetgg/mern-hotel-booking.git
 Navigate to the project directory: cd hotel-booking
 Install dependencies: npm install
